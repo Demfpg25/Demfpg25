@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hello everyone
 
+My name is Dominic, and I am a current Scientific programmer analyst and previous Data Analyst with an education in Mathematical Sciences. Curiosity drives me and learning new skillsets excites me.
+
+About:
+- Bachelors of Science in Mathematical Sciences from Virginia Commonwealth University
+- Professional career in data analytics and programming since 2020
+- Main years spent analyzing Ozone data to understand the ever changing Climate conditions in the world
+- An adaptable programmer with expereince in multiple languages: Python, R, C, SQL
+- Enthusiatic for new projects and exciting data that improves/betters the world and the people in it
+
+This page will be a portfolio where I invite viewers to see my full projects and get a good idea about who I am, my capabilities, and my interests. The goal of these projects is to develop my skills as well as explore different industries I may not be too familiar with but have interest in.
 <!--
 **Demfpg25/Demfpg25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
